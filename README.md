@@ -8,9 +8,9 @@ This repository is for the course project of MGT 4250 at Elon University. The pu
 - Question 3: Is there a relationship between walks scored and homeruns scored within Eastern division teams?
 ### Importance
 - This is *especially* **important** because...
- 1. Reason: Marketing efforts can be increased geographically through billboards and radio shows as well as coupons in local grocery stores once analysts know what locations are bringing in the most and least number of fans.
- 2. Reason: Having this information about how attendance affects team success, marketers can focus on increasing their efforts for big games to increase the odds of winning.
- 3. Reason: Seeing how walks correlates to homeruns can help mlb teams and coaches increase their odds of winning with a different approach to the game.
+ 1. Reason: Marketing efforts by MLB teams can be increased geographically through billboards, radio shows, or local grocery stores once analysts know which ballpark locations are bringing in the most and least number of fans.
+ 2. Reason: Having this information about how attendance affects team success, Red Sox marketers specifically can focus on increasing their efforts for big games in order to increase the odds of winning.
+ 3. Reason: Seeing how walks correlates to homeruns can help The Red Sox's coaches and players increase their odds of winning with a different approach to the game.
  4. References :
     a. https://www.qualtrics.com/blog/fan-experience/
     b. https://www.qualtrics.com/experience-management/brand/geographic-segmentation/#:~:text=Marketers%20often%20use%20geographic%20segmentation,to%20expand%20into%20new%20territories
