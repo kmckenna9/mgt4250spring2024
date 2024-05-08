@@ -12,8 +12,8 @@ This repository is for the course project of MGT 4250 at Elon University. The pu
  2. Reason: Having this information about how attendance affects team success, Red Sox marketers specifically can focus on increasing their efforts for big games in order to increase the odds of winning.
  3. Reason: Seeing how walks correlates to homeruns can help The Red Sox's coaches and players increase their odds of winning with a different approach to the game.
  4. References :
-    a. https://www.qualtrics.com/blog/fan-experience/
-    b. https://www.qualtrics.com/experience-management/brand/geographic-segmentation/#:~:text=Marketers%20often%20use%20geographic%20segmentation,to%20expand%20into%20new%20territories
+    - https://www.qualtrics.com/blog/fan-experience/
+    - https://www.qualtrics.com/experience-management/brand/geographic-segmentation/#:~:text=Marketers%20often%20use%20geographic%20segmentation,to%20expand%20into%20new%20territories
 ## Data Description
 Instructions:
 1. How to download data
