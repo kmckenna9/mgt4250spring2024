@@ -19,7 +19,7 @@ Instructions:
 1. How to download data
 -https://www.openintro.org/data/index.php?data=mlb_teams
 -Scroll to bottom of page, select download csv file
-2. How to access my Tableau Workbook
+# 2. How to access my Tableau Workbook
 https://public.tableau.com/views/Repository-KM/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 ## Interpreting Visualizations
 ![Sheet 1](https://github.com/kmckenna9/mgt4250spring2024/assets/169082902/6116656d-ee16-4424-b048-599374f2e316)
