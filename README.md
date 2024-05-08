@@ -18,7 +18,8 @@ This repository is for the course project of MGT 4250 at Elon University. The pu
 Instructions:
 1. How to download data
 -https://www.openintro.org/data/index.php?data=mlb_teams
--Scroll to bottom of page, select download csv file
+- Scroll to bottom of page
+- Select download csv file
 2. Data types used : String, Number, and Date data 
 ### Data used in First Visualization
 - Sum Wins - number
