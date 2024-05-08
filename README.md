@@ -1,7 +1,7 @@
 # MGT4250 Spring 2024 Course Project
 Author: Kailey McKenna, kmckenna9@elon.edu
 ## Project Description
-This repository is for the course project of MGT 4250 at Elon University.The purpose of this project was to provide questions and analytical insights to data of our choosing. I chose to look into the MLB franchise and specifically into the Boston Red Sox.
+This repository is for the course project of MGT 4250 at Elon University. The purpose of this project was to provide questions and analytical insights to data of our choosing. I chose to look into the MLB franchise and specifically into the Boston Red Sox.
 ### Questions of interest
 - Question 1 : What ballpark location in the MLB East division has had the largest amounts of total home wins? 
 - Question 2 :  How does game attendance affect the Red Sox’s success on the field?
