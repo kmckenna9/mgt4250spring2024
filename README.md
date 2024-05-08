@@ -54,7 +54,7 @@ My third visualization looks at the Eastern division, specifically over the last
 Related Article : https://knowledge.wharton.upenn.edu/podcast/knowledge-at-wharton-podcast/analytics-in-baseball/
 ### Summary
 This article although does not align specifically to my three questions, discusses how the use of analytics in baseball is changing the game. It specifically highlights how analytics are used to identify stars, predict their performance, and weigh how much players are worth spending on financially. They can also use analytical tools to analyze pitching, hitting, and overall develop a better game strategy. 
-###Generative AI Questions & Answers (Chat GPT) NOTE : Questions 1 and 3 Chat responsed not enough data to answer specifically about the Eastern division teams, extra questions were inserted below.
+### Generative AI Questions & Answers (Chat GPT) NOTE : Questions 1 and 3 Chat responsed not enough data to answer specifically about the Eastern division teams, extra questions were inserted below.
 - Question 1:How does game attendance affect the Red Sox’s success on the field?
 - Response 1: Overall, while game attendance itself may not directly determine the Red Sox's success on the field, it can have indirect effects on factors such as revenue generation, player morale, home-field advantage, and financial flexibility, all of which can contribute to the team's overall competitiveness and success.
 - Question 2: How do you think mlb teams can use analytics to have more winning seasons?
