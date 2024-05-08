@@ -1,9 +1,11 @@
 # MGT4250 Spring 2024 Course Project
 Author: Kailey McKenna, kmckenna9@elon.edu
 ## Project Description
+#The purpose of this project was to provide questions and analytical insights to data of our choosing. I chose to look into the MLB franchise and specifically into the Boston Red Sox.
 ### Questions of interest
-- Question 1
-- Question 2
+- Question 1 : What ballpark location in the MLB East division has had the largest amounts of total home wins?
+- Question 2 :  How does game attendance affect the Red Sox’s success on the field?
+- Question 3: Is there a relationship between walks scored and homeruns scored within Eastern division teams?
 ### Importance
 - This is *especially* **important** because
  1. Reason 1
